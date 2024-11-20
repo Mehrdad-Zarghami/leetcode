@@ -14,6 +14,8 @@ Example 2:
 Input: numRows = 1
 Output: [[1]]
 
+The description link: https://leetcode.com/problems/pascals-triangle/description/
+
 */
 
 
